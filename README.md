@@ -39,10 +39,12 @@ which consists of removing samples from the majority class.
 # 4) nlp models
 
 word vectorizer tools: 
+
 1.Bag-of-Words (BoW) 
 2.Term Frequency–Inverse Document Frequency (TF-IDF)
 
 Machine Learning classifiers:
+
 1. Linear SVC (Support Vector Classifier)
 2. Logistic Regression
 3. Multinomial NB (Naive Bayes)
