@@ -40,8 +40,8 @@ which consists of removing samples from the majority class.
 
 word vectorizer tools: 
 
-1.Bag-of-Words (BoW) 
-2.Term Frequency–Inverse Document Frequency (TF-IDF)
+1. Bag-of-Words (BoW) 
+2. Term Frequency–Inverse Document Frequency (TF-IDF)
 
 Machine Learning classifiers:
 
