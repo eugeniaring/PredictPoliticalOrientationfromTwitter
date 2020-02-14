@@ -38,15 +38,17 @@ which consists of removing samples from the majority class.
 
 # 4) nlp models
 
-word vectorizer tools: Bag-of-Words (BoW) and Term Frequency–Inverse Document Frequency (TF-IDF)
+word vectorizer tools: 
+1.Bag-of-Words (BoW) 
+2.Term Frequency–Inverse Document Frequency (TF-IDF)
 
 Machine Learning classifiers:
-• Linear SVC (Support Vector Classifier)
-• Logistic Regression
-• Multinomial NB (Naive Bayes)
-• Random Forest Classifier
-• SGD Classifier (Stochastic Gradient Descent)
-• XGBoost Classifier
+1. Linear SVC (Support Vector Classifier)
+2. Logistic Regression
+3. Multinomial NB (Naive Bayes)
+4. Random Forest Classifier
+5. SGD Classifier (Stochastic Gradient Descent)
+6. XGBoost Classifier
 
 
 
